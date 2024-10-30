@@ -39,7 +39,7 @@ I'm a passionate Computer Science student specializing in **Python**, **C**, **C
 ---
 
 ### 📫 How to reach me:
-- **LinkedIn:** [Shahid Ul Islam](www.linkedin.com/in/shahid-ul-islam-13650998)
+- **LinkedIn:** [Shahid Ul Islam](https://www.linkedin.com/in/shahid-ul-islam-13650998)
 - **Email:** [Email](mailto:shahid9664@gmail.com)
 
 ---

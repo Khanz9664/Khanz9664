@@ -45,4 +45,4 @@ I'm a passionate Computer Science student specializing in **Python**, **C**, **C
 ---
 
 ### ⚡ Fun Fact:
-When I'm not coding, you can find me exploring the latest in AI research, working on side projects, or gaming 🎮!
+When I'm not coding, you can find me exploring the latest in AI research or gaming 🎮!

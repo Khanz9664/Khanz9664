@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Shahid-Ul-Islam! 👋</h1>
 
 <p align="center">
-  <a href="https://github.com/Khanz9664"><img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=500&lines=Passionate+Computer+Science+Student;AI+and+ML+Enthusiast;Exploring+Data+Science+and+Innovation" alt="Typing SVG" /></a>
+  <a href="https://github.com/Khanz9664"><img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=500&lines=Passionate+CS+Student;AI+&+ML+Enthusiast;Exploring+Data+Science+&+Innovation" alt="Typing SVG" /></a>
 </p>
 
 ---

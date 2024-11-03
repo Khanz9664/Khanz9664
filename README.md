@@ -54,6 +54,12 @@ I'm a **Computer Science** student with a strong focus on **Python**, **AI**, **
 </p>
 
 
+### 📫 How to reach me:
+- **LinkedIn:** [Shahid Ul Islam](https://www.linkedin.com/in/shahid-ul-islam-13650998)
+- **Email:** [Email](mailto:shahid9664@gmail.com)
+
+---
+
 ---
 
 ### ⚡ Fun Fact:

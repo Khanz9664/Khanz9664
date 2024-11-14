@@ -11,6 +11,16 @@ I'm a **Computer Science** student with a strong focus on **Python**, **AI**, **
 
 ---
 
+From: 06 November 2024 - To: 13 November 2024
+
+Total Time: 8 hrs 0 mins
+
+Python        2 hrs 25 mins   █████████████████▒░░░░░░░   28.12 %
+C             1 hr 10 mins    ██████████░░░░░░░░░░░░░░░   13.75 %
+C++           1 hr 15 mins    ███████████░░░░░░░░░░░░░░   14.75 %
+AI/ML         1 hr 10 mins    ██████████░░░░░░░░░░░░░░░   13.75 %
+CS Theory     2 hrs           ████████████████▒▒░░░░░░░   25.00 %
+
 ### 💡 Skills
 - **Programming Languages**: Python, C, C++
 - **AI & Machine Learning**: Model building, training, and deployment

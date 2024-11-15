@@ -21,7 +21,13 @@ I'm a **Computer Science** student with a strong focus on **Python**, **AI**, **
 </p>  
 
 ### 🤖 Artificial Intelligence & Machine Learning  
-- Model building, training, and deployment  
+<p align="left">
+  <img src="https://img.shields.io/badge/AI-00B0D7?style=for-the-badge&logo=artificial-intelligence&logoColor=white" alt="AI" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-00897B?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+</p>
 
 ### 📊 Data Science Tools  
 <p align="left">

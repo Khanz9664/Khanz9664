@@ -48,8 +48,8 @@ I'm a **Computer Science** student with a strong focus on **Python**, **AI**, **
 
 
 ### 📫 How to reach me:
-- **LinkedIn:** [Shahid Ul Islam](https://www.linkedin.com/in/shahid-ul-islam-13650998)
-- **Email:** [Email](mailto:shahid9664@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shaddy9664) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shahid-ul-islam-13650998) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Shaddy9664) 
+
       
 ---
 

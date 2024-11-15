@@ -11,14 +11,44 @@ I'm a **Computer Science** student with a strong focus on **Python**, **AI**, **
 
 ---
 
-### 💡 Skills
-- **Programming Languages**: Python, C, C++
-- **AI & Machine Learning**: Model building, training, and deployment
-- **Data Science Tools**: NumPy, Pandas, Matplotlib, Scikit-learn
-- **Database Management**: SQL, NoSQL
-- **Web Development**: HTML, CSS, JavaScript (basics)
-- **Version Control**: Git, GitHub
+## Skills  
 
+### 🚀 Programming Languages  
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+</p>  
+
+### 🤖 Artificial Intelligence & Machine Learning  
+- Model building, training, and deployment  
+
+### 📊 Data Science Tools  
+<p align="left">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Matplotlib-2C5BB4?style=for-the-badge&logo=data:image/svg+xml;base64,<BASE64>" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
+</p>  
+
+### 🗃️ Database Management  
+<p align="left">
+  <img src="https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/NoSQL-005571?style=for-the-badge&logo=mongodb&logoColor=white" alt="NoSQL" />
+</p>  
+
+### 🌐 Web Development  
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+</p>  
+
+### 🛠️ Version Control  
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
 ---
 
 ### 🔧 Tools & Environments

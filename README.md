@@ -20,7 +20,7 @@ I'm a **Computer Science** student with a strong focus on **Python**, **AI**, **
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
 </p>  
 
-### 🤖 Artificial Intelligence & Machine Learning  
+### 🤖 AI ML & DL  
 <p align="left">
   <img src="https://img.shields.io/badge/AI-00B0D7?style=for-the-badge&logo=artificial-intelligence&logoColor=white" alt="AI" />
   <img src="https://img.shields.io/badge/Machine%20Learning-00897B?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Machine Learning" />

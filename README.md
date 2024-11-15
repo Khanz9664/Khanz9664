@@ -67,37 +67,12 @@ I'm a **Computer Science** student with a strong focus on **Python**, **AI**, **
 
 ---
 
-## 📘 Currently Learning  
-
-### 📊 Advanced Data Science Techniques  
-<p align="left">
-  <img src="https://img.shields.io/badge/Data%20Science-1572B6?style=for-the-badge&logo=databricks&logoColor=white" alt="Data Science" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-</p>  
-
-### 🤖 Deep Learning & Neural Networks  
-<p align="left">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-</p>  
-
-### 💻 Project-based Machine Learning  
-<p align="left">
-  <img src="https://img.shields.io/badge/Machine%20Learning-00897B?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Machine Learning" />
-  <img src="https://img.shields.io/badge/Projects-0052CC?style=for-the-badge&logo=github&logoColor=white" alt="Projects" />
-</p>
----
-
 ### 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Khanz9664&show_icons=true&theme=radical" width="45%" alt="GitHub Stats" /> 
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khanz9664&layout=compact&theme=radical" width="45%" alt="Top Languages" />
 </p>
-
-
 
 ### 📫 How to reach me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shaddy9664) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shahid-ul-islam-13650998) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Shaddy9664) 

@@ -6,7 +6,7 @@
 
 ---
 
-[![Shahid's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Khanz9664)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Shahid's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Khanz9664)](https://github.com/Khanz9664/github-readme-activity-graph)
 
 ### 🚀 About Me
 I'm a **Computer Science** student with a strong focus on **Python**, **AI**, **Machine Learning**, and **Data Science**. I’m passionate about creating impactful solutions through data-driven insights and advanced algorithms. Currently, I’m delving into **Deep Learning** and other innovative technologies that shape the future.

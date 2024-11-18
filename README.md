@@ -8,6 +8,24 @@
 
 [![Shahid's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Khanz9664&theme=github-compact)](https://github.com/Khanz9664/github-readme-activity-graph)
 
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Khanz9664&show_icons=true&theme=radical" width="45%" alt="GitHub Stats" /> 
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khanz9664&layout=compact&theme=radical" width="45%" alt="Top Languages" />
+</p>
+
+---
+
+### 📫 How to reach me:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shaddy9664) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shahid-ul-islam-13650998) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Shaddy9664) 
+
+      
+---
+
+
 ### 🚀 About Me
 I'm a **Computer Science** student with a strong focus on **Python**, **AI**, **Machine Learning**, and **Data Science**. I’m passionate about creating impactful solutions through data-driven insights and advanced algorithms. Currently, I’m delving into **Deep Learning** and other innovative technologies that shape the future.
 
@@ -69,20 +87,6 @@ I'm a **Computer Science** student with a strong focus on **Python**, **AI**, **
 
 ---
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Khanz9664&show_icons=true&theme=radical" width="45%" alt="GitHub Stats" /> 
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khanz9664&layout=compact&theme=radical" width="45%" alt="Top Languages" />
-</p>
-
-### 📫 How to reach me:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shaddy9664) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shahid-ul-islam-13650998) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Shaddy9664) 
-
-      
----
-
----
 
 ### ⚡ Fun Fact:
 When I'm not coding, you can find me exploring the latest in AI research or gaming 🎮!

@@ -14,7 +14,7 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Khanz9664&show_icons=true&theme=radical" width="45%" alt="GitHub Stats" /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=Khanz9664&show_icons=true&theme=radical" width="80%" alt="GitHub Stats" /> 
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khanz9664&layout=compact&theme=radical" width="45%" alt="Top Languages" />

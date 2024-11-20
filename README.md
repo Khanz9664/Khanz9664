@@ -6,7 +6,7 @@
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Khanz9664&theme=dark)]
+![GitHub Streak](https://streak-stats.demolab.com?user=Khanz9664&theme=dark)
 
 ---
 

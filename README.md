@@ -6,6 +6,10 @@
 
 ---
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Khanz9664)](https://git.io/streak-stats)
+
+---
+
 [![Shahid's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Khanz9664&theme=github-compact)](https://github.com/Khanz9664/github-readme-activity-graph)
 
 ---

@@ -4,6 +4,10 @@
   <a href="https://github.com/Khanz9664"><img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=500&lines=Passionate+CS+Student;AI+and+ML+Enthusiast;Exploring+Data+Science" alt="Typing SVG" /></a>
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Khanz9664&show_icons=true&&theme=dark" width="60%" alt="GitHub Stats" /> 
+</p>
+
 ---
 ![GitHub Streak](https://streak-stats.demolab.com?user=Khanz9664&theme=dark)
 ---

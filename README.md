@@ -5,11 +5,9 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Khanz9664&show_icons=true&&theme=dark" width="60%" alt="GitHub Stats" /> 
+  <img src="https://streak-stats.demolab.com?user=Khanz9664&show_icons=true&&theme=dark" width="50%" alt="GitHub Stats" /> 
 </p>
 
----
-![GitHub Streak](https://streak-stats.demolab.com?user=Khanz9664&theme=dark)
 ---
 
 [![Shahid's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Khanz9664&theme=github-compact)](https://github.com/Khanz9664/github-readme-activity-graph)

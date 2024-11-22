@@ -1,7 +1,5 @@
 <h1 align="center">Hi there, I'm Shahid-Ul-Islam! 👋</h1>
 
----
-
 <p align="center">
   <a href="https://github.com/Khanz9664"><img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=500&lines=Passionate+CS+Student;AI+and+ML+Enthusiast;Exploring+Data+Science" alt="Typing SVG" /></a>
 </p>
@@ -84,6 +82,7 @@ I'm a **Computer Science** student with a strong focus on **Python**, **AI**, **
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
+
 ---
 
 ### 🔧 Tools & Environments
@@ -96,6 +95,7 @@ I'm a **Computer Science** student with a strong focus on **Python**, **AI**, **
 
 ---
 
-
 ### ⚡ Fun Fact:
 When I'm not coding, you can find me exploring the latest in AI research or gaming 🎮!
+
+---

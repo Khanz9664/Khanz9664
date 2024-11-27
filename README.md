@@ -1,6 +1,5 @@
 <h1 align="center">Hi there, I'm Shahid-Ul-Islam! 👋</h1>
 
----
 
 <p align="center">
   <a href="https://github.com/Khanz9664"><img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=500&lines=Passionate+CS+Student;AI+and+ML+Enthusiast;Exploring+Data+Science" alt="Typing SVG" /></a>
@@ -15,7 +14,7 @@
 ![Shahid's](https://github-readme-stats.vercel.app/api?username=Khanz9664&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![Shahid's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Khanz9664&theme=vue-dark&hide_border=true)
 <p align="centre">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khanz9664&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" width="40%" alt="GitHub Stats" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khanz9664&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" width="80%" alt="GitHub Stats" /> 
 </p>
 
 ---

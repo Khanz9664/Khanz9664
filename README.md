@@ -6,15 +6,12 @@
 
 ---
 
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Khanz9664&theme=vue-dark&hide_border=true" width="30%" alt="GitHub Stats" /> 
-</p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Khanz9664&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" width="30%" alt="GitHub Stats" /> 
-</p>
+
+![Shahid's](https://github-readme-stats.vercel.app/api?username=Khanz9664&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 <p align="centre">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khanz9664&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" width="30%" alt="GitHub Stats" /> 
 </p>
+![Shahid's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Khanz9664&theme=vue-dark&hide_border=true)
 
 ---
 

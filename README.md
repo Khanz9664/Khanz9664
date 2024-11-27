@@ -16,13 +16,7 @@
 
 ---
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Khanz9664&show_icons=true&theme=radical" width="60%" alt="GitHub Stats" /> 
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khanz9664&layout=compact&theme=radical" width="60%" alt="Top Languages" />
-</p>
+![Khanz9664's Stats](https://github-readme-stats.vercel.app/api?username=Khanz9664&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ---
 

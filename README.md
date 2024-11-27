@@ -6,9 +6,8 @@
 
 ---
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Khanz9664&show_icons=true&&theme=dark" width="50%" alt="GitHub Stats" /> 
-</p>
+![Khanz9664's Stats](https://github-readme-stats.vercel.app/api?username=Khanz9664&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Khanz9664's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Khanz9664&theme=vue-dark&hide_border=true)
 
 ---
 
@@ -16,14 +15,10 @@
 
 ---
 
-![Khanz9664's Stats](https://github-readme-stats.vercel.app/api?username=Khanz9664&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![Khanz9664's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Khanz9664&theme=vue-dark&hide_border=true)
-
-<p align="centre">
-  
-![Khanz9664's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Khanz9664&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khanz9664&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" width="50%" alt="GitHub Stats" /> 
 </p>
+
 ---
 
 ### 📫 How to reach me:

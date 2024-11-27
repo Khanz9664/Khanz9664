@@ -8,16 +8,15 @@
 
 ---
 
+[![Shahid's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Khanz9664&theme=github-compact)](https://github.com/Khanz9664/github-readme-activity-graph)
+
+---
 
 ![Shahid's](https://github-readme-stats.vercel.app/api?username=Khanz9664&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![Shahid's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Khanz9664&theme=vue-dark&hide_border=true)
 <p align="centre">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khanz9664&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" width="40%" alt="GitHub Stats" /> 
 </p>
-
----
-
-[![Shahid's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Khanz9664&theme=github-compact)](https://github.com/Khanz9664/github-readme-activity-graph)
 
 ---
 

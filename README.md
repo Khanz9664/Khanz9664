@@ -25,6 +25,18 @@
 
 ---
 
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+<div class="badge-base LI-profile-badge" 
+    data-locale="en_US" 
+    data-size="medium" 
+    data-theme="dark" 
+    data-type="VERTICAL" 
+    data-vanity="shahid-ul-islam-13650998" 
+    data-version="v1">
+    <a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/shahid-ul-islam-13650998?trk=profile-badge">Shahid Ul Islam</a>
+</div>
+
+---
 
 ### 🚀 About Me
 I'm a **Computer Science** student with a strong focus on **Python**, **AI**, **Machine Learning**, and **Data Science**. I’m passionate about creating impactful solutions through data-driven insights and advanced algorithms. Currently, I’m delving into **Deep Learning** and other innovative technologies that shape the future.

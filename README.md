@@ -22,6 +22,10 @@
 ### 📫 How to reach me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shaddy9664) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shahid-ul-islam-13650998) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Shaddy9664) 
 
+---
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="shahid-ul-islam-13650998" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/shahid-ul-islam-13650998?trk=profile-badge">shahid Ul Islam</a></div>
+              
       
 ---
 

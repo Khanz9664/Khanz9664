@@ -11,8 +11,7 @@
 
 ---
 
-![Shahid's](https://github-readme-stats.vercel.app/api/top-langs/?username=Khanz9664&theme=vue-dark&show_icons=true&hide_border=true)
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Khanz9664?cardType=github&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Khanz9664?cardType=level-alternate&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
 ![Shahid's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Khanz9664&theme=vue-dark&hide_border=true)
 
 ---

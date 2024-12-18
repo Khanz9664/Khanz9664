@@ -12,7 +12,6 @@
 ---
 
 ![Khanz9664 github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=Khanz9664)
-![Shahid's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Khanz9664&theme=vue-dark&hide_border=true)
 
 ---
 

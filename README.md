@@ -11,7 +11,7 @@
 
 ---
 
-![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Khanz9664?cardType=level-alternate&theme=github-dark&preferLogin=false)
+![Khanz9664 github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=Khanz9664)
 ![Shahid's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Khanz9664&theme=vue-dark&hide_border=true)
 
 ---

@@ -15,7 +15,7 @@
 
 ---
 
-![Shahid's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Khanz9664&theme=vue-dark&hide_border=true)
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=Khanz9664&theme=tokyonight&hide_border=true)
 
 ---
 

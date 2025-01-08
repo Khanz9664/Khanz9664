@@ -15,7 +15,7 @@
 
 ---
 
-![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=Khanz9664&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Khanz9664&theme=tokyonight&hide_border=true" alt="Khanz9664's GitHub Stats" />
 
 ---
 

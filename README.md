@@ -1,5 +1,7 @@
 <h1 align="center">Hi there, I'm Shahid-Ul-Islam! 👋</h1>
 
+```AI is not about man versus machine, but rather man with machine—turning data into intelligence, and intelligence into action.```
+
 
 <p align="center">
   <a href="https://github.com/Khanz9664"><img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=500&lines=Passionate+CS+Student;AI+and+ML+Enthusiast;Exploring+Data+Science" alt="Typing SVG" /></a>

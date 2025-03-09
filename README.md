@@ -33,7 +33,7 @@ I'm a **Computer Science Master's student** passionate about **problem-solving, 
 
 ## 🔥 What Drives Me?  
 🔹 **Data & AI** – I love uncovering insights and making data-driven decisions.  
-🔹 **Innovation** – Developing real-world applications, from **automated trading bots** to **Instagram scrapers**.  
+🔹 **Innovation** – Developing real-world applications.  
 🔹 **Continuous Growth** – Always exploring **new technologies** and sharpening my expertise.  
 
 ---

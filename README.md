@@ -25,6 +25,13 @@
 ---
 
 ### 🚀 About Me👋 
-I'm a passionate **computer science** student with a knack for **problem-solving** and a love for **coding**. I thrive on building meaningful projects and constantly learning new technologies. From **Python** and **Machine Learning** to **Data Science**, I'm on a journey to **explore** and **contribute** to the tech world.
+I'm a **Computer Science Master's student** passionate about **problem-solving, AI, and data-driven technologies**. With a strong foundation in **Python, Machine Learning, and Data Science**, I love tackling complex challenges and building intelligent systems.  
+
+💡 I specialize in **predictive modeling, AI/ML, and data visualization**, and I’m currently refining my skills by working on various **Data Science Projects **.  
+
+## 🔥 What Drives Me?  
+🔹 **Data & AI** – I love uncovering insights and making data-driven decisions.  
+🔹 **Innovation** – Developing real-world applications, from **automated trading bots** to **Instagram scrapers**.  
+🔹 **Continuous Growth** – Always exploring **new technologies** and sharpening my expertise.  
 
 ---

@@ -29,7 +29,7 @@
 ### 🚀 About Me👋 
 I'm a **Computer Science Master's student** passionate about **problem-solving, AI, and data-driven technologies**. With a strong foundation in **Python, Machine Learning, and Data Science**, I love tackling complex challenges and building intelligent systems.  
 
-💡 I specialize in **predictive modeling, AI/ML, and data visualization**, and I’m currently refining my skills by working on various **Data Science Projects **.  
+💡 I specialize in **predictive modeling, AI/ML, and data visualization**, and I’m currently refining my skills by working on various **Data Science Projects**.  
 
 ## 🔥 What Drives Me?  
 🔹 **Data & AI** – I love uncovering insights and making data-driven decisions.  

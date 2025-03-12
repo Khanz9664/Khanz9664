@@ -31,7 +31,7 @@ I'm a **Computer Science Master's student** passionate about **problem-solving, 
 
 💡 I specialize in **predictive modeling, AI/ML, and data visualization**, and I’m currently refining my skills by working on various **Data Science Projects**.  
 
-## 🔥 What Drives Me?  
+#### 🔥 What Drives Me?  
 🔹 **Data & AI** – I love uncovering insights and making data-driven decisions.  
 🔹 **Innovation** – Developing real-world applications.  
 🔹 **Continuous Growth** – Always exploring **new technologies** and sharpening my expertise.  

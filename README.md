@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Shahid-Ul-Islam! 👋</h1>
 
-```AI is not about man versus machine, but rather man with machine—turning data into intelligence, and intelligence into action.```
+```Data science ---- The bridge between chaos and clarity```
 
 ---
 <p align="center">

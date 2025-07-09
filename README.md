@@ -22,6 +22,12 @@
 ---
 
 <p align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D5612AQGveoVHSzUXlw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1686439739259?e=2147483647&v=beta&t=6CAsp499Q8Z49vEnuQLpWQUuIhGe71Blbz2DA3uy09A" alt="Centered Image">
+</p>
+
+---
+
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Khanz9664&theme=github-compact" alt="Shahid's github activity graph" />
 </p>
 

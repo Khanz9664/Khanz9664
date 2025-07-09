@@ -96,25 +96,6 @@ I'm a **Computer Science Master's student** passionate about **problem-solving, 
 
 ---
 
-## 📌 Pinned Projects
-
-<p align="center">
-  <a href="https://github.com/Khanz9664/Breast-Cancer-Prediction">
-    <img align="center" src="[https://github-readme-stats.vercel.app/api/pin/?username=Khanz9664&repo=Random-Forest-Classifier&theme=radical](https://camo.githubusercontent.com/310001bf13226059f55e1604e9bab88f7e69f73242c0214f67f659af22943e48/68747470733a2f2f6865616c74686974616e616c79746963732e636f6d2f696d616765732f736974652f61727469636c655f686561646572732f5f6e6f726d616c2f5468696e6b73746f636b50686f746f732d3439353935313931322e6a7067)" />
-  </a>
-  <a href="https://github.com/Khanz9664/Comprehensive-Data-Analysis-Visualization-of-Apple-Product-Sales">
-    <img align="center" src="https://tridenstechnology.com/wp-content/uploads/apple-sales-statistics.webp" />
-  </a>
-  <a href="https://github.com/Khanz9664/Titanic-Survival-Prediction-using-Decision-Trees">
-    <img align="center" src="https://media.licdn.com/dms/image/v2/C5112AQFoudi-QicfuQ/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1547395172108?e=2147483647&v=beta&t=Oq_l4cVHjXEMBb2b19p9xSJ5EAIHMhJ8R3C3ieOMNcA" />
-  </a>
-  <a href="https://github.com/Khanz9664/Medicine-Review-Categorization">
-    <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkMQuF7Ql5vM8TiTQW8GBt0oTSJkQV0Q2kQxZsaTywrcEf3Rd1RRUfFapR_fYKkTWbOz8&usqp=CAU" />
-  </a>
-</p>
-
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
   <br>

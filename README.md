@@ -15,6 +15,7 @@
 </p>
 
 ---
+
 <p align="center">
   <a href="https://github.com/Khanz9664"><img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=500&lines=Passionate+CS+Student;AI+and+ML+Enthusiast;Exploring+Data+Science" alt="Typing SVG" /></a>
 </p>
@@ -22,7 +23,9 @@
 ---
 
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D5612AQGveoVHSzUXlw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1686439739259?e=2147483647&v=beta&t=6CAsp499Q8Z49vEnuQLpWQUuIhGe71Blbz2DA3uy09A" alt="Centered Image">
+  <a href="https://khanz9664.github.io/portfolio" target="_blank">
+    <img src="https://media.licdn.com/dms/image/v2/D5612AQGveoVHSzUXlw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1686439739259?e=2147483647&v=beta&t=6CAsp499Q8Z49vEnuQLpWQUuIhGe71Blbz2DA3uy09A" alt="Portfolio Banner">
+  </a>
 </p>
 
 ---

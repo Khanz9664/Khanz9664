@@ -48,7 +48,7 @@
 
 ---
 
-### 📫 Connect with Me
+### Connect with Me
 
 <p align="center">
   <a href="https://instagram.com/shaddy9664">
@@ -70,7 +70,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -86,22 +86,22 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I'm a **Computer Science Master's student** passionate about **problem-solving, AI, and data-driven technologies**. With a strong foundation in **Python, Machine Learning, and Data Science**, I love tackling complex challenges and building intelligent systems.
 
-💡 I specialize in **predictive modeling, AI/ML, and data visualization**, and I’m currently refining my skills by working on various **Data Science Projects**.
+I specialize in **predictive modeling, AI/ML, and data visualization**, and I’m currently refining my skills by working on various **Data Science Projects**.
 
-### 🔥 What Drives Me?
+### What Drives Me?
 - **Data & AI** – I love uncovering **insights** and making **data-driven** decisions.
 - **Innovation** – Developing real-world applications.
 - **Continuous Growth** – Always exploring **new technologies** and sharpening my expertise.
 
 ---
-## ✨ Fun Facts
-- 🧩 I love turning data into actionable insights!
-- ☕ Coffee and code fuel my creativity.
-- 🌍 Always excited to connect with like-minded techies.
+## Fun Facts
+- I love turning data into actionable insights!
+- Coffee and code fuel my creativity.
+- Always excited to connect with like-minded techies.
 
 ---
 

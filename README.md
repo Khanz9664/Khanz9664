@@ -2,6 +2,11 @@
 
 <p align="center"><i>Data science — The bridge between chaos and clarity</i></p>
 
+<p align="center">
+  <img src="img/1.png" alt="Image description" width="200" style="border-radius: 50%;">
+</p>
+
+
 ---
 
 <p align="center">

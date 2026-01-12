@@ -99,10 +99,6 @@ me.say_hi()
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Khanz9664&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7F4&line=00F7F4&point=FFFFFF" alt="Contribution Graph" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Khanz9664&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
-</p>
-
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
@@ -157,14 +153,6 @@ me.say_hi()
 ## 💡 Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
-<div align="center">
-
-## 🐍 GitHub Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Khanz9664&custom_title=Shahid's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=00F7F4&line=00F7F4&point=FFFFFF&area_color=0D1117&title_color=00F7F4&area=true" alt="GitHub Activity Graph" />
 
 </div>
 

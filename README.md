@@ -28,9 +28,7 @@
 ---
 
 <p align="center">
-  <a href="https://khanz9664.github.io/portfolio" target="_blank">
   <img src="img/3.png" alt="Image description" height="1100" width="300" style="border-radius: 50%;">
-  </a>
 </p>
 
 ---

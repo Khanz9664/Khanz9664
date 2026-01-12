@@ -1,102 +1,201 @@
-<h1 align="center">Hi there, I'm Shahid-Ul-Islam! 👋</h1>
+<div align="center">
 
-<p align="center"><i>Data science — The bridge between chaos and clarity</i></p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shahid%20Ul%20Islam&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7F4&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=100&lines=%F0%9F%92%BB+Data+Scientist+%7C+AI+Engineer;%F0%9F%A7%A0+Machine+Learning+Enthusiast;%F0%9F%9A%80+Turning+Data+into+Intelligence" alt="Typing SVG" />
+
+</div>
 
 <p align="center">
-  <img src="img/2.png" alt="Image description" width="200" style="border-radius: 50%;">
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400">
+  <br>
+  <i>"In God we trust, all others must bring data." – W. Edwards Deming</i>
 </p>
-
 
 ---
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+<div align="center">
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> Tech Arsenal
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3677A9?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Data%20Science-1A237E?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,sklearn&theme=dark" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,git&theme=dark" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,bash&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
----
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+<div align="center">
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> About Me
+
+</div>
+
+```python
+class DataScientist:
+    def __init__(self):
+        self.name = "Shahid Ul Islam"
+        self.role = "AI/ML Engineer & Data Scientist"
+        self.education = "Master's in Computer Science"
+        self.language_spoken = ["en_US", "ur_PK"]
+        
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something amazing together.")
+        
+    def current_focus(self):
+        return [
+            "🔬 Deep Learning & Neural Networks",
+            "📊 Advanced Data Visualization",
+            "🤖 Natural Language Processing",
+            "🎯 Predictive Analytics & Modeling",
+            "⚡ Real-time Data Processing"
+        ]
+        
+    def interests(self):
+        return {
+            "professional": ["AI Ethics", "MLOps", "Big Data"],
+            "personal": ["Open Source", "Tech Communities", "Coffee ☕"]
+        }
+
+me = DataScientist()
+me.say_hi()
+```
 
 <p align="center">
-  <a href="https://github.com/Khanz9664"><img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=500&lines=Passionate+CS+Student;AI+and+ML+Enthusiast;Exploring+Data+Science" alt="Typing SVG" /></a>
+  <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="400">
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+<div align="center">
+
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> GitHub Analytics
 
 <p align="center">
-  <a href="https://khanz9664.github.io/portfolio" target="_blank" rel="noopener noreferrer">
-    <img src="img/3.png" alt="Image description"
-         style="max-width: 100%; border-radius: 50%;">
-  </a>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Khanz9664&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F7F4&icon_color=00F7F4&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Khanz9664&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F4&text_color=FFFFFF"/>
 </p>
 
----
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Khanz9664&theme=github-compact" alt="Shahid's github activity graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Khanz9664&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7F4&ring=00F7F4&fire=FF6E4A&currStreakLabel=00F7F4" alt="GitHub Streak Stats"/>
 </p>
 
----
-
 <p align="center">
-  <img src="https://stats.dooboo.io/api/github-stats-advanced?login=Khanz9664" alt="Shahid's github-stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Khanz9664&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7F4&line=00F7F4&point=FFFFFF" alt="Contribution Graph" />
 </p>
 
----
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khanz9664&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="Shahid's Stats" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Khanz9664&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 </p>
 
----
+</div>
 
-### Connect with Me
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+<div align="center">
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Coding Activity
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <p align="center">
-  <a href="https://instagram.com/shaddy9664">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"/>
-  </a>
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+</p>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+<div align="center">
+
+## <img src="https://user-images.githubusercontent.com/74038190/216121964-513bdf45-6edd-4940-9c57-7bd1970719d6.png" width="30"/> Connect With Me
+
+<p align="center">
   <a href="https://linkedin.com/in/shahid-ul-islam-13650998">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=flat-square&labelColor=0077B5" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/shaddy9664">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&style=flat-square&labelColor=E4405F" alt="Instagram"/>
   </a>
   <a href="https://x.com/Shaddy9664">
-    <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X"/>
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&style=flat-square&labelColor=000000" alt="X"/>
   </a>
   <a href="https://khanz9664.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-green" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&style=flat-square&labelColor=FF5722" alt="Portfolio"/>
   </a>
   <a href="https://github.com/Khanz9664">
-    <img src="https://img.shields.io/badge/Github-red" alt="Github"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&style=flat-square&labelColor=181717" alt="GitHub"/>
   </a>
 </p>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+</p>
 
-## About Me
+</div>
 
-I'm a **Computer Science Master's student** passionate about **problem-solving, AI, and data-driven technologies**. With a strong foundation in **Python, Machine Learning, and Data Science**, I love tackling complex challenges and building intelligent systems.
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-I specialize in **predictive modeling, AI/ML, and data visualization**, and I’m currently refining my skills by working on various **Data Science Projects**.
+<div align="center">
 
-### What Drives Me?
-- **Data & AI** – I love uncovering **insights** and making **data-driven** decisions.
-- **Innovation** – Developing real-world applications.
-- **Continuous Growth** – Always exploring **new technologies** and sharpening my expertise.
+## 💡 Random Dev Quote
 
----
-## Fun Facts
-- I love turning data into actionable insights!
-- Coffee and code fuel my creativity.
-- Always excited to connect with like-minded techies.
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+<div align="center">
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Khanz9664/Khanz9664/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Khanz9664/Khanz9664/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Khanz9664/Khanz9664/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+<div align="center">
+
+## 🎯 Current Streak
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Khanz9664&icon=5&color=0" alt="Visit Count"/>
+</p>
+
+</div>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
-  <br>
-  <b>Thanks for visiting my profile! ⭐️</b>
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 </p>
+
+<div align="center">
+  
+### 🚀 "Code is like humor. When you have to explain it, it's bad." – Cory House
+
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="150">
+
+**⭐️ From [Khanz9664](https://github.com/Khanz9664) | Thanks for visiting!**
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>

@@ -28,7 +28,7 @@
 ---
 
 <p align="center">
-  <a href="https://your-portfolio-link.com" target="_blank" rel="noopener noreferrer">
+  <a href="https://khanz9664.github.io/portfolio" target="_blank" rel="noopener noreferrer">
     <img src="img/3.png" alt="Image description"
          style="max-width: 100%; border-radius: 50%;">
   </a>

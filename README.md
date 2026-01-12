@@ -92,7 +92,7 @@ me.say_hi()
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Khanz9664&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7F4&ring=00F7F4&fire=FF6E4A&currStreakLabel=00F7F4" alt="GitHub Streak Stats"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Khanz9664&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7F4&ring=00F7F4&fire=FF6E4A&currStreakLabel=00F7F4" alt="GitHub Streak Stats"/>
 </p>
 
 <p align="center">
@@ -100,7 +100,7 @@ me.say_hi()
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Khanz9664&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Khanz9664&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
 </p>
 
 </div>
@@ -128,19 +128,19 @@ me.say_hi()
 
 <p align="center">
   <a href="https://linkedin.com/in/shahid-ul-islam-13650998">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=flat-square&labelColor=0077B5" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://instagram.com/shaddy9664">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&style=flat-square&labelColor=E4405F" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://x.com/Shaddy9664">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&style=flat-square&labelColor=000000" alt="X"/>
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
   </a>
   <a href="https://khanz9664.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&style=flat-square&labelColor=FF5722" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://github.com/Khanz9664">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&style=flat-square&labelColor=181717" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
@@ -162,22 +162,20 @@ me.say_hi()
 
 <div align="center">
 
-## 🐍 Contribution Snake
+## 🐍 GitHub Activity Graph
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Khanz9664/Khanz9664/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Khanz9664/Khanz9664/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Khanz9664/Khanz9664/output/github-contribution-grid-snake.svg">
-</picture>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Khanz9664&custom_title=Shahid's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=00F7F4&line=00F7F4&point=FFFFFF&area_color=0D1117&title_color=00F7F4&area=true" alt="GitHub Activity Graph" />
 
 </div>
 
 <div align="center">
 
-## 🎯 Current Streak
+## 🔥 Profile Views & Stats
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Khanz9664&icon=5&color=0" alt="Visit Count"/>
+  <img src="https://komarev.com/ghpvc/?username=Khanz9664&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Khanz9664?label=Followers&style=for-the-badge&color=00F7F4" alt="followers" />
+  <img src="https://img.shields.io/github/stars/Khanz9664?label=Stars&style=for-the-badge&color=FF6E4A" alt="stars" />
 </p>
 
 </div>

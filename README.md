@@ -28,7 +28,10 @@
 ---
 
 <p align="center">
-  <img src="img/3.png" alt="Image description" style="max-width: 100%; border-radius: 50%;">
+  <a href="https://your-portfolio-link.com" target="_blank" rel="noopener noreferrer">
+    <img src="img/3.png" alt="Image description"
+         style="max-width: 100%; border-radius: 50%;">
+  </a>
 </p>
 
 ---

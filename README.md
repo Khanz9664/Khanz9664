@@ -28,7 +28,7 @@
 ---
 
 <p align="center">
-  <img src="img/3.png" alt="Image description" height="1100" width="300" style="border-radius: 50%;">
+  <img src="img/3.png" alt="Image description" style="max-width: 100%; border-radius: 50%;">
 </p>
 
 ---

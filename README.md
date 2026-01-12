@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Shahid-Ul-Islam! 👋</h1>
+<img width="1101" height="300" alt="image" src="https://github.com/user-attachments/assets/db9ae7ab-8483-476d-ac66-88b0e919b8f2" /><h1 align="center">Hi there, I'm Shahid-Ul-Islam! 👋</h1>
 
 <p align="center"><i>Data science — The bridge between chaos and clarity</i></p>
 
@@ -29,7 +29,7 @@
 
 <p align="center">
   <a href="https://khanz9664.github.io/portfolio" target="_blank">
-    <img src="https://media.licdn.com/dms/image/v2/D5612AQGveoVHSzUXlw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1686439739259?e=2147483647&v=beta&t=6CAsp499Q8Z49vEnuQLpWQUuIhGe71Blbz2DA3uy09A" alt="Portfolio Banner">
+  <img src="img/3.png" alt="Image description" width="200" style="border-radius: 50%;">
   </a>
 </p>
 

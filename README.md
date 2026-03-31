@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shahid%20Ul%20Islam&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7F4&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=100&lines=%F0%9F%92%BB+Data+Scientist+%7C+AI+Engineer;%F0%9F%A7%A0+Machine+Learning+Enthusiast;%F0%9F%9A%80+Turning+Data+into+Intelligence" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7F4&center=true&vCenter=true&multiline=true&repeat=false&width=500&height=100&lines=%F0%9F%92%BB+Data+Scientist+%7C+ML+Engineer;%F0%9F%A9%BA+Healthcare+AI+%7C+Agentic+Systems;%F0%9F%9A%80+Turning+Data+into+Clinical+Intelligence" alt="Typing SVG" />
 
 </div>
 
@@ -23,17 +23,17 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,sklearn&theme=dark" />
   <br>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,docker,git,linux&theme=dark" />
   <br>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,bash&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=gcp,vscode,jupyter,github,bash&theme=dark" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
 </p>
 
 </div>
@@ -49,27 +49,34 @@
 ```python
 class DataScientist:
     def __init__(self):
-        self.name = "Shahid Ul Islam"
-        self.role = "AI/ML Engineer & Data Scientist"
-        self.education = "Master's in Computer Science"
-        self.language_spoken = ["en_US", "ur_PK"]
-        
+        self.name        = "Shahid Ul Islam"
+        self.role        = "Data Scientist | ML Engineer"
+        self.location    = "Kulgam, Kashmir"
+        self.education   = "MCA — Islamic University of Science & Technology (CGPA: 9.24)"
+        self.languages   = ["en_US", "ur_PK"]
+        self.email       = "shahid9664@gmail.com"
+
     def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together.")
-        
+        print("Thanks for visiting! Let's build data-driven solutions together.")
+
     def current_focus(self):
         return [
-            "🔬 Deep Learning & Neural Networks",
-            "📊 Advanced Data Visualization",
-            "🤖 Natural Language Processing",
-            "🎯 Predictive Analytics & Modeling",
-            "⚡ Real-time Data Processing"
+            "🏥 Healthcare AI & Clinical Decision Support",
+            "🤖 Agentic & Multi-Agent AI Systems",
+            "🧠 Deep Learning — CNNs & Vision Transformers",
+            "📊 Predictive Modeling & Feature Engineering",
+            "🔤 Natural Language Processing & Text Classification",
         ]
-        
-    def interests(self):
+
+    def expertise(self):
         return {
-            "professional": ["AI Ethics", "MLOps", "Big Data"],
-            "personal": ["Open Source", "Tech Communities", "Coffee ☕"]
+            "ml_ai"      : ["Supervised/Unsupervised Learning", "Transfer Learning",
+                            "Class Imbalance Handling", "Model Evaluation"],
+            "deep_learn" : ["CNNs", "Vision Transformers (ViT)", "NLP", "TF-IDF",
+                            "Sentiment Analysis"],
+            "agentic"    : ["Multi-Agent Architectures", "Tool-Augmented AI",
+                            "Deterministic Reasoning", "Safety-Critical AI Design"],
+            "cloud"      : ["Google Cloud Platform", "BigQuery", "Looker"],
         }
 
 me = DataScientist()
@@ -79,6 +86,75 @@ me.say_hi()
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="400">
 </p>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+<div align="center">
+
+## Featured Projects
+
+</div>
+
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center"> Transfer Learning–Based Classification of Respiratory Diseases with Explainable AI</h3>
+      <p align="center">
+        <a href="https://github.com/Khanz9664/Transfer-Learning-for-Respiratory-Disease-Classification">
+          <img src="https://img.shields.io/badge/View%20Repo-00F7F4?style=for-the-badge&logo=github&logoColor=black"/>
+        </a>
+      </p>
+      <p>
+        Multi-class chest X-ray classifier detecting <b>COVID-19, viral & bacterial pneumonia</b> using transfer learning. Applied <b>VGG16 and Vision Transformers (ViT-B/16)</b> on 6,500+ medical images, achieving <b>~86% accuracy</b> under class imbalance. Evaluated with precision, recall, F1-score, and confusion matrices. And performed Quantitative Faithfulness comparison between CNN's and ViT's using the XAI.
+      </p>
+      <p><b>Stack:</b> Python · PyTorch · TensorFlow · CNNs · ViT · Augmentation</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center"> Breast Cancer Prediction System</h3>
+      <p align="center">
+        <a href="https://github.com/Khanz9664/Breast-Cancer-Prediction">
+          <img src="https://img.shields.io/badge/View%20Repo-00F7F4?style=for-the-badge&logo=github&logoColor=black"/>
+        </a>
+      </p>
+      <p>
+        End-to-end ML pipeline classifying tumors as benign or malignant with <b>~98% accuracy</b>. Performed feature engineering and data preprocessing, improving baseline performance by <b>~15%</b>. Deployed as an interactive <b>Streamlit web application</b> for real-time clinical predictions.
+      </p>
+      <p><b>Stack:</b> Python · Scikit-Learn · Random Forest · Streamlit</p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3 align="center"> Apple Sales Analysis & Predictive Dashboard</h3>
+      <p align="center">
+        <a href="https://github.com/Khanz9664/Comprehensive-Data-Analysis-Visualization-of-Apple-Product-Sales">
+          <img src="https://img.shields.io/badge/View%20Repo-00F7F4?style=for-the-badge&logo=github&logoColor=black"/>
+        </a>
+      </p>
+      <p align="center">
+        Enterprise-grade analytics platform analyzing Apple hardware vs. software revenue trends. Built an <b>NLP-driven Executive Copilot</b> and live telemetry simulator using Random Forest regression and Autoregressive pipelines. Integrated unsupervised clustering (K-Means, DBSCAN) and SciPy optimization (SLSQP) to translate data anomalies into quantified strategic directives.
+      </p>
+      <p align="center"><b>Stack:</b> Python · Pandas · Plotly · Streamlit · Scikit-Learn · NLP</p>
+    </td>
+  </tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+<div align="center">
+
+## Certifications
+
+| Certificate | Issuer |
+|---|---|
+| Machine Learning | Columbia University |
+| Advanced Learning Algorithms | Coursera (DeepLearning.AI) |
+| Supervised ML: Regression & Classification | Coursera (DeepLearning.AI) |
+| Unsupervised Learning, Recommenders & Reinforcement Learning | Coursera (DeepLearning.AI) |
+| Introduction to Generative AI | Google |
+| Introduction to Large Language Models | Google |
+| Analyzing & Visualizing Data in Looker | Google |
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
@@ -105,38 +181,23 @@ me.say_hi()
 
 <div align="center">
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Coding Activity
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Connect With Me
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
-</p>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
-<div align="center">
-
-## <img src="https://user-images.githubusercontent.com/74038190/216121964-513bdf45-6edd-4940-9c57-7bd1970719d6.png" width="30"/> Connect With Me
-
-<p align="center">
+  <a href="mailto:shahid9664@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
   <a href="https://linkedin.com/in/shahid-ul-islam-13650998">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://instagram.com/shaddy9664">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://x.com/Shaddy9664">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
   </a>
   <a href="https://khanz9664.github.io/portfolio/">
     <img src="https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://github.com/Khanz9664">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://x.com/Shaddy9664">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
   </a>
 </p>
 
@@ -150,7 +211,7 @@ me.say_hi()
 
 <div align="center">
 
-## 💡 Random Dev Quote
+## Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
@@ -158,7 +219,7 @@ me.say_hi()
 
 <div align="center">
 
-## 🔥 Profile Views & Stats
+## Profile Views & Stats
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Khanz9664&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
@@ -175,12 +236,12 @@ me.say_hi()
 </p>
 
 <div align="center">
-  
-### 🚀 "Code is like humor. When you have to explain it, it's bad." – Cory House
+
+### "Code is like humor. When you have to explain it, it's bad." – Cory House
 
 <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="150">
 
-**⭐️ From [Khanz9664](https://github.com/Khanz9664) | Thanks for visiting!**
+**From [Khanz9664](https://github.com/Khanz9664) | Thanks for visiting!**
 
 </div>
 

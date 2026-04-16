@@ -90,6 +90,20 @@ me.say_hi()
   </tr>
   <tr>
     <td colspan="2" valign="top">
+      <h3 align="center"> CardioSense </h3>
+      <p align="center">
+        <a href="https://github.com/Khanz9664/CardioSense-AI">
+          <img src="https://img.shields.io/badge/View%20Repo-00F7F4?style=for-the-badge&logo=github&logoColor=black"/>
+        </a>
+      </p>
+      <p align="center">
+        Explainable Clinical Decision Support System (CDSS) for cardiovascular risk stratification. Engineered a High-Performance ML Core using XGBoost and Optuna-driven hyperparameter tuning, integrated with SHAP/LIME interpretability engines. Developed a 'Least Effort Path' optimization layer and a Clinical Safety Engine with ACC/AHA guideline overrides to translate black-box predictions into trustable, actionable medical intelligence.
+      </p>
+      <p align="center"><b>Stack:</b> Python · Pandas · XgBoost · Streamlit · Scikit-Learn · XAI</p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
       <h3 align="center"> Apple Sales Analysis & Predictive Dashboard</h3>
       <p align="center">
         <a href="https://github.com/Khanz9664/Comprehensive-Data-Analysis-Visualization-of-Apple-Product-Sales">

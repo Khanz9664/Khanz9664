@@ -1,5 +1,5 @@
 # Shahid Ul Islam 👋
-**Data Scientist & ML Engineer | Creator of [TrustLens](https://github.com/Khanz9664/TrustLens)**
+**Data Scientist & ML Engineer |Developing [TrustLens](https://github.com/Khanz9664/TrustLens)**
 
 > "In God we trust, all others must bring data." – W. Edwards Deming
 

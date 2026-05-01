@@ -29,6 +29,8 @@ report.show() # Calibration • Failure • Bias • Representation
 
 ## GitHub Analytics
 
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&fontFamily=&preferLogin=false">    <img  alt="Khanz9664's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Khanz9664?cardType=level&fontFamily=&preferLogin=false" />  </a>
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Khanz9664&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7F4&line=00F7F4&point=FFFFFF" alt="Contribution Graph" />
 </p>

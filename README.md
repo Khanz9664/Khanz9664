@@ -41,6 +41,12 @@ report.show() # Calibration • Failure • Bias • Representation
 </p>
 </div>
 
+![](https://github-profile-trophy.vercel.app/?username=Khanz9664&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Khanz9664&repo=TrustLens" />
+</p>
+
 ---
 
 <div align="center">

@@ -7,23 +7,14 @@
 
 ### Building [TrustLens](https://github.com/Khanz9664/TrustLens)
 
-**Open-source ML reliability toolkit for auditing, explainability, calibration, and fairness.**
+**Because model accuracy alone is not enough.**
 
-Most models report accuracy.
-**TrustLens reports trust.**
+TrustLens is an open-source framework for evaluating:
+**reliability, calibration, fairness, failures, and explainability** — in a single workflow.
 
-It helps uncover:
-
-* **When** models fail
-* **Why** they fail
-* **Which groups** they fail on
-* **Whether confidence can be trusted**
-
-```python id="p6f07g"
+```python id="0ysx3g"
 from trustlens import analyze
-
 report = analyze(model, X_val, y_val, y_prob=proba)
-report.show()
 ```
 
 ---

@@ -5,22 +5,25 @@
 
 ---
 
-###  Currently Working On: [TrustLens](https://github.com/Khanz9664/TrustLens)
-**The open-source Python library for ML reliability.**
+### Building [TrustLens](https://github.com/Khanz9664/TrustLens)
 
-Accuracy tells you how often your model is right; **TrustLens** tells you when, why, and who it fails. It provides a unified framework for model auditing beyond standard metrics.
+**Open-source ML reliability toolkit for auditing, explainability, calibration, and fairness.**
 
-* **Calibration & Reliability:** Measuring if model confidence reflects reality (ECE, Brier Score).
-* **Failure Analysis:** Identifying "Critical Failures"—high-confidence incorrect predictions.
-* **Bias & Fairness:** Quantifying performance gaps across demographic subgroups.
-* **Explainability:** Evaluating representation quality and gradient-based faithfulness.
+Most models report accuracy.
+**TrustLens reports trust.**
 
-```python
+It helps uncover:
+
+* **When** models fail
+* **Why** they fail
+* **Which groups** they fail on
+* **Whether confidence can be trusted**
+
+```python id="p6f07g"
 from trustlens import analyze
 
-# Moving beyond 92% accuracy in one function call
 report = analyze(model, X_val, y_val, y_prob=proba)
-report.show() # Calibration • Failure • Bias • Representation
+report.show()
 ```
 
 ---

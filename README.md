@@ -19,6 +19,14 @@ report = analyze(model, X_val, y_val, y_prob=proba)
 
 ---
 
+## Mathematical Foundations of ML
+
+Deep dives into the mathematical foundations of Machine Learning, Optimization, and AI — focused on intuition, derivations, and rigorous theory behind modern ML algorithms.
+
+🔗 [Read Articles](https://khanz9664.github.io/portfolio/articles.html?utm_source=chatgpt.com)
+
+---
+
 <div align="center">
 
 ## GitHub Analytics

@@ -16,6 +16,7 @@ TrustLens is an open-source framework for evaluating:
 from trustlens import analyze
 report = analyze(model, X_val, y_val, y_prob=proba)
 ```
+_Read Article here: [Explore TrustLens](https://khanz9664.github.io/portfolio/projects/trustlens.html)_
 
 ---
 

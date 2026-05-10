@@ -38,9 +38,7 @@ Deep dives into the mathematical foundations of Machine Learning, Optimization, 
       <img src="https://streak-stats.demolab.com/?user=Khanz9664" />
     </td>
     <td>
-      <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&fontFamily=&preferLogin=false">
-        <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Khanz9664?cardType=level&fontFamily=&preferLogin=false" />
-      </a>
+      <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Khanz9664?cardType=level&fontFamily=&preferLogin=false" />
     </td>
   </tr>
 </table>

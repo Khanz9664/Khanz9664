@@ -32,21 +32,18 @@ Deep dives into the mathematical foundations of Machine Learning, Optimization, 
 
 ## GitHub Analytics
 
-  <p align="center">
-  <img 
-    src="https://streak-stats.demolab.com/?user=Khanz9664" 
-    alt="GitHub Streak"
-    height="180"
-  />
-
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&fontFamily=&preferLogin=false">
-    <img 
-      src="https://awesome-github-stats.azurewebsites.net/user-stats/Khanz9664?cardType=level&fontFamily=&preferLogin=false"
-      alt="GitHub Stats"
-      height="180"
-    />
-  </a>
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://streak-stats.demolab.com/?user=Khanz9664" />
+    </td>
+    <td>
+      <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&fontFamily=&preferLogin=false">
+        <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Khanz9664?cardType=level&fontFamily=&preferLogin=false" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Khanz9664&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7F4&line=00F7F4&point=FFFFFF" alt="Contribution Graph" />

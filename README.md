@@ -1,4 +1,4 @@
-# Hi, I'm Shahid Ul Islam 👋
+# HeLLo ....): 👋
 
 **Data Scientist & ML Engineer** · Building tools that make models *trustworthy*, not just accurate.
 
@@ -34,7 +34,7 @@ Topics: optimization, probability theory, statistical learning, and more.
 <div align="center">
 
 <table><tr>
-  <td><img src="https://github-readme-streak-stats.herokuapp.com?user=Khanz9664&theme=sunset-gradient" alt="GitHub Streak" /></td>
+  <td><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Khanz9664&theme=blood-dark&hide_border=true&border_radius=2.90&short_numbers=true&hide_total_contributions=true" alt="GitHub Streak" /></a></td>
   <td><img src="https://awesome-github-stats.azurewebsites.net/user-stats/Khanz9664?cardType=level&preferLogin=false&theme=dark" /></td>
 </tr></table>
 

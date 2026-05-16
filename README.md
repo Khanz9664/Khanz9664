@@ -34,7 +34,7 @@ Topics: optimization, probability theory, statistical learning, and more.
 <div align="center">
 
 <table><tr>
-  <td><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Khanz9664&theme=blood-dark&hide_border=true&border_radius=2.90&short_numbers=true&hide_total_contributions=true" alt="GitHub Streak" /></a></td>
+  <td><img src="https://github-readme-streak-stats.herokuapp.com?user=Khanz9664&theme=blood-dark&hide_border=true&border_radius=2.90&short_numbers=true&hide_total_contributions=true" alt="GitHub Streak" /></td>
   <td><img src="https://awesome-github-stats.azurewebsites.net/user-stats/Khanz9664?cardType=level&preferLogin=false&theme=dark" /></td>
 </tr></table>
 

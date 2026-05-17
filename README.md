@@ -1,14 +1,11 @@
-# HeLLo ....): 👋
+# 👋 .....! :(
 
-**Data Scientist & ML Engineer** · Building tools that make models *trustworthy*, not just accurate.
+**Building** tools that make **models** *trustworthy*, not just **accurate**.
 
 > *"In God we trust, all others must bring data."* — W. Edwards Deming
 
 ---
-
-## What I'm Building
-
-### [TrustLens](https://github.com/Khanz9664/TrustLens) — ML Reliability Framework
+### [TrustLens](https://github.com/Khanz9664/TrustLens) — *ML Reliability Framework*
 
 Most teams stop at accuracy. TrustLens goes further — evaluating **reliability, calibration, fairness, failure modes, and explainability** in a single workflow.
 
@@ -24,8 +21,8 @@ report = analyze(model, X_val, y_val, y_prob=proba)
 
 ## Mathematical Foundations of ML
 
-Deep dives into the math behind modern ML — intuition-first, with full derivations.  
-Topics: optimization, probability theory, statistical learning, and more.
+Deep dives into the *math* behind modern *ML* — intuition-first, with full derivations.  
+*Topics: optimization, probability theory, statistical learning, and more.*
 
 [Read the articles →](https://khanz9664.github.io/portfolio/articles.html)
 

@@ -69,7 +69,7 @@ report = analyze(model, X_val, y_val, y_prob=proba)
 ### Paper Under Review
 **Quantitative Faithfulness Benchmarking of CNNs vs. Vision Transformers: Implications for Clinical Trustworthiness**
 
-I ran GradCAM++ on a 6,432-image chest X-ray dataset and found something counterintuitive: **visually plausible heatmaps lacked causal validity**. A 6-dimensional Pixel Deletion (AOPC/AUC) benchmark showed that patch-based Transformer attention was causally faithful where CNNs weren't — despite CNNs looking more "correct" to the human eye. I call this the **Explainability Paradox**.
+I Trained 3 different Models (VGG16, ViT B/16 and Custom CNN) and ran GradCAM++ and EigenCam on a chest X-ray dataset and found something counterintuitive: **visually plausible heatmaps lacked causal validity**. A 6-dimensional benchmark along with Pixel Deletion (AOPC/AUC) showed that patch-based Transformer attention was causally faithful where CNNs weren't — despite CNNs looking more "correct" to the human eye. I call this the **Explainability Paradox**.
 
 *Metrics used: Sparsity · Entropy · Inter-Method Agreement · AOPC/AUC · Bonferroni-corrected non-parametric testing*
 

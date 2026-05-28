@@ -204,20 +204,34 @@ Drift Detection  Z-Score · Counterfactual Analysis · Synthetic Stress Testing
 
 ---
 
-<!-- ─── GITHUB STATS ────────────────────────────────────────────────────── -->
-
-## GitHub Activity
+## 📊 GitHub Activity
 
 <div align="center">
 
-<table><tr>
-  <td><img src="https://github-readme-streak-stats.herokuapp.com?user=Khanz9664&theme=tokyonight&hide_border=true&border_radius=4&short_numbers=true&hide_total_contributions=true" alt="GitHub Streak" /></td>
-  <td><img src="https://awesome-github-stats.azurewebsites.net/user-stats/Khanz9664?cardType=level&preferLogin=false&theme=tokyonight" /></td>
-</tr></table>
+<table>
+<tr>
+<td align="center">
+<img width="380" src="https://github-readme-streak-stats.herokuapp.com?user=Khanz9664&theme=tokyonight&hide_border=true&border_radius=6&short_numbers=true&hide_total_contributions=true" />
+</td>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Khanz9664&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7F4&line=00F7F4&point=FFFFFF" alt="Contribution Graph" />
+<td align="center">
+<img width="380" src="https://awesome-github-stats.azurewebsites.net/user-stats/Khanz9664?cardType=level&theme=tokyonight&preferLogin=false" />
+</td>
+</tr>
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Khanz9664&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6)
+<tr>
+<td colspan="2" align="center">
+<img width="780" src="https://github-readme-activity-graph.vercel.app/graph?username=Khanz9664&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7F4&line=00F7F4&point=FFFFFF" />
+</td>
+</tr>
+
+<tr>
+<td colspan="2" align="center">
+<img width="780" src="https://github-profile-trophy.vercel.app/?username=Khanz9664&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5&row=1&column=6" />
+</td>
+</tr>
+
+</table>
 
 </div>
 

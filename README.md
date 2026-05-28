@@ -100,181 +100,94 @@ I Trained 3 different Models (VGG16, ViT B/16 and Custom CNN) and ran GradCAM++ 
 
 ---
 
-# Mathematical Foundations of ML
-
-<p>
-I write derivation-first articles — intuition before formulas, complete proofs included.
-No hand-waving, no shortcuts.
-</p>
-
-<br>
-
+<!-- ─── MATHEMATICAL FOUNDATIONS ───────────────────────────────────────── -->
+ 
+## Mathematical Foundations of ML
+ 
+I write derivation-first articles — intuition before formulas, complete proofs included. No hand-waving, no shortcuts.
+ 
+<br/>
+<!-- Article 1 — Gradient Descent -->
 <table>
-<tr>
-<td width="260" valign="top">
-
-<a href="https://khanz9664.github.io/portfolio/articles/gradient-descent.html">
-<img src="./assets/1.png" width="240" alt="Gradient Descent">
-</a>
-
-</td>
-
-<td valign="top">
-
-## <a href="https://khanz9664.github.io/portfolio/articles/gradient-descent.html">Gradient Descent</a>
-
-<i>The workhorse of machine learning optimization.</i>
-
-<br><br>
-
-A rigorous, ground-up treatment of how gradient descent navigates the loss landscape. Covers the derivation of partial derivatives and the chain rule in the context of multi-parameter loss functions, the geometry of steepest descent, and why learning rate choice is not arbitrary — too large diverges, too small stalls.
-
-Analyses convergence behavior, introduces momentum variants, and connects the mathematics to practical PyTorch training loops. Written for readers who want to truly understand <b>why</b> the optimizer works, not just how to call <code>.backward()</code>.
-
-</td>
-</tr>
+  <tr>
+    <td width="260" valign="top">
+      <a href="https://khanz9664.github.io/portfolio/articles/gradient-descent.html">
+        <img src="https://raw.githubusercontent.com/Khanz9664/Khanz9664/main/assets/1.png" width="240" alt="Gradient Descent" />
+      </a>
+    </td>
+    <td valign="top">
+      <h3> <a href="https://khanz9664.github.io/portfolio/articles/gradient-descent.html">Gradient Descent</a></h3>
+      <em>The workhorse of machine learning optimization.</em>
+      <p>A rigorous, ground-up treatment of how gradient descent navigates the loss landscape. Covers the derivation of partial derivatives and the chain rule in the context of multi-parameter loss functions, the geometry of steepest descent, and why learning rate choice is not arbitrary — too large diverges, too small stalls. Analyses convergence behavior, introduces momentum variants, and connects the mathematics to practical PyTorch training loops. Written for readers who want to truly understand <strong>why</strong> the optimizer works, not just how to call <code>.backward()</code>.</p>
+    </td>
+  </tr>
 </table>
-
-<br>
-
+<br/>
+<!-- Article 2 — Lagrange Multipliers -->
 <table>
-<tr>
-<td width="260" valign="top">
-
-<a href="https://khanz9664.github.io/portfolio/articles/lagrange-multipliers.html">
-<img src="./assets/2.png" width="240" alt="Lagrange Multipliers">
-</a>
-
-</td>
-
-<td valign="top">
-
-## <a href="https://khanz9664.github.io/portfolio/articles/lagrange-multipliers.html">Lagrange Multipliers</a>
-
-<i>Constrained optimization — the math behind SVMs, regularization, and resource allocation.</i>
-
-<br><br>
-
-When you can't just follow the gradient because the solution must satisfy a constraint, Lagrange multipliers are the tool.
-
-This article builds the method from its geometric foundations — explaining why the gradient of the objective must be parallel to the gradient of the constraint at a solution — and derives the KKT conditions used throughout modern ML.
-
-Covers the primal and dual problem formulation, the role of the Lagrangian, saddle-point interpretation, and worked examples in both geometric and analytical form.
-
-Directly applicable to understanding Support Vector Machine margins and constrained portfolio optimization.
-
-</td>
-</tr>
+  <tr>
+    <td width="260" valign="top">
+      <a href="https://khanz9664.github.io/portfolio/articles/lagrange-multipliers.html">
+        <img src="https://raw.githubusercontent.com/Khanz9664/Khanz9664/main/assets/2.png" width="240" alt="Lagrange Multipliers" />
+      </a>
+    </td>
+    <td valign="top">
+      <h3> <a href="https://khanz9664.github.io/portfolio/articles/lagrange-multipliers.html">Lagrange Multipliers</a></h3>
+      <em>Constrained optimization — the math behind SVMs, regularization, and resource allocation.</em>
+      <p>When you can't just follow the gradient because the solution must satisfy a constraint, Lagrange multipliers are the tool. This article builds the method from its geometric foundations — explaining why the gradient of the objective must be parallel to the gradient of the constraint at a solution — and derives the KKT conditions used throughout modern ML. Covers the primal and dual problem formulation, the role of the Lagrangian, saddle-point interpretation, and worked examples in both geometric and analytical form. Directly applicable to understanding Support Vector Machine margins and constrained portfolio optimization.</p>
+    </td>
+  </tr>
 </table>
-
-<br>
-
+<br/>
+<!-- Article 3 — Bias-Variance -->
 <table>
-<tr>
-<td width="260" valign="top">
-
-<a href="https://khanz9664.github.io/portfolio/articles/biasvariance.html">
-<img src="./assets/3.png" width="240" alt="Bias Variance">
-</a>
-
-</td>
-
-<td valign="top">
-
-## <a href="https://khanz9664.github.io/portfolio/articles/biasvariance.html">Bias–Variance Trade-Off</a>
-
-<i>The single most important concept for building models that generalize.</i>
-
-<br><br>
-
-This article derives the bias-variance decomposition of expected test error from first principles, showing exactly how total prediction error decomposes into irreducible noise, squared bias, and variance components.
-
-Explains why high-capacity models overfit (low bias, high variance) while low-capacity models underfit (high bias, low variance) — and critically, why you cannot eliminate both simultaneously.
-
-Connects the trade-off to regularization, ensemble methods, and cross-validation strategy.
-
-A must-read before tuning any model's capacity or regularization strength.
-
-</td>
-</tr>
+  <tr>
+    <td width="260" valign="top">
+      <a href="https://khanz9664.github.io/portfolio/articles/biasvariance.html">
+        <img src="https://raw.githubusercontent.com/Khanz9664/Khanz9664/main/assets/3.png" width="240" alt="Bias-Variance Trade-Off" />
+      </a>
+    </td>
+    <td valign="top">
+      <h3> <a href="https://khanz9664.github.io/portfolio/articles/biasvariance.html">Bias–Variance Trade-Off</a></h3>
+      <em>The single most important concept for building models that generalize.</em>
+      <p>Derives the bias-variance decomposition of expected test error from first principles, showing exactly how total prediction error decomposes into irreducible noise, squared bias, and variance components. Explains why high-capacity models overfit (low bias, high variance) while low-capacity models underfit (high bias, low variance) — and critically, <strong>why you cannot eliminate both simultaneously</strong>. Connects the trade-off to regularization, ensemble methods, and cross-validation strategy. A must-read before tuning any model's capacity or regularization strength.</p>
+    </td>
+  </tr>
 </table>
-
-<br>
-
+<br/>
+<!-- Article 4 — Linear Regression -->
 <table>
-<tr>
-<td width="260" valign="top">
-
-<a href="https://khanz9664.github.io/portfolio/articles/linear-regression.html">
-<img src="./assets/4.png" width="240" alt="Linear Regression">
-</a>
-
-</td>
-
-<td valign="top">
-
-## <a href="https://khanz9664.github.io/portfolio/articles/linear-regression.html">Linear Regression</a>
-
-<i>The foundation of predictive modeling — derived completely from scratch.</i>
-
-<br><br>
-
-Derives Ordinary Least Squares from the maximum likelihood principle under Gaussian noise, arriving at the closed-form Normal Equation:
-
-<pre>
-β = (XᵀX)⁻¹Xᵀy
-</pre>
-
-through matrix calculus.
-
-Analyses the geometric interpretation of OLS as orthogonal projection onto the column space of the design matrix.
-
-Covers the Gauss-Markov theorem (why OLS is BLUE), assumption diagnostics (homoscedasticity, multicollinearity, independence), and the numerical instability of inverting XᵀX directly.
-
-Bridges the pure mathematics to regularization techniques (Ridge, Lasso) that emerge naturally when the Normal Equation is ill-conditioned.
-
-</td>
-</tr>
+  <tr>
+    <td width="260" valign="top">
+      <a href="https://khanz9664.github.io/portfolio/articles/linear-regression.html">
+        <img src="https://raw.githubusercontent.com/Khanz9664/Khanz9664/main/assets/4.png" width="240" alt="Linear Regression" />
+      </a>
+    </td>
+    <td valign="top">
+      <h3> <a href="https://khanz9664.github.io/portfolio/articles/linear-regression.html">Linear Regression</a></h3>
+      <em>The foundation of predictive modeling — derived completely from scratch.</em>
+      <p>Derives Ordinary Least Squares from the maximum likelihood principle under Gaussian noise, arriving at the closed-form Normal Equation <strong>β = (XᵀX)⁻¹Xᵀy</strong> through matrix calculus. Analyses the geometric interpretation of OLS as orthogonal projection onto the column space of the design matrix. Covers the Gauss-Markov theorem (why OLS is BLUE), assumption diagnostics (homoscedasticity, multicollinearity, independence), and the numerical instability of inverting XᵀX directly. Bridges the pure mathematics to regularization techniques (Ridge, Lasso) that emerge naturally when the Normal Equation is ill-conditioned.</p>
+    </td>
+  </tr>
 </table>
-
-<br>
-
+<br/>
+<!-- Article 5 — Logistic Regression -->
 <table>
-<tr>
-<td width="260" valign="top">
-
-<a href="https://khanz9664.github.io/portfolio/articles/logistic-regression.html">
-<img src="./assets/5.png" width="240" alt="Logistic Regression">
-</a>
-
-</td>
-
-<td valign="top">
-
-## <a href="https://khanz9664.github.io/portfolio/articles/logistic-regression.html">Logistic Regression</a>
-
-<i>From continuous predictions to calibrated class probabilities — the complete derivation.</i>
-
-<br><br>
-
-Walks through the motivation for squashing linear outputs through the sigmoid function, deriving its form from the odds-ratio and log-odds perspective.
-
-Constructs the Binary Cross-Entropy loss function from scratch using Maximum Likelihood Estimation over the Bernoulli distribution, then derives its gradient with respect to model weights — revealing the elegant result that the gradient takes the same form as linear regression's residual.
-
-Covers numerical stability considerations (log-sum-exp trick), the probabilistic interpretation of outputs, and why logistic regression is not just a classifier but a calibrated probabilistic model.
-
-</td>
-</tr>
+  <tr>
+    <td width="260" valign="top">
+      <a href="https://khanz9664.github.io/portfolio/articles/logistic-regression.html">
+        <img src="https://raw.githubusercontent.com/Khanz9664/Khanz9664/main/assets/5.png" width="240" alt="Logistic Regression" />
+      </a>
+    </td>
+    <td valign="top">
+      <h3> <a href="https://khanz9664.github.io/portfolio/articles/logistic-regression.html">Logistic Regression</a></h3>
+      <em>From continuous predictions to calibrated class probabilities — the complete derivation.</em>
+      <p>Walks through the motivation for squashing linear outputs through the sigmoid function, deriving its form from the odds-ratio and log-odds perspective. Constructs the Binary Cross-Entropy loss function from scratch using Maximum Likelihood Estimation over the Bernoulli distribution, then derives its gradient with respect to model weights — revealing the elegant result that the gradient takes the same form as linear regression's residual. Covers numerical stability considerations (log-sum-exp trick), the probabilistic interpretation of outputs, and why logistic regression is not just a classifier but a calibrated probabilistic model.</p>
+    </td>
+  </tr>
 </table>
-
-<br>
-
-<h3>
-<a href="https://khanz9664.github.io/portfolio/articles.html">
-→ All Articles
-</a>
-</h3>
-
+<br/>
+→ <a href="https://khanz9664.github.io/portfolio/articles.html"><strong>All articles →</strong></a>
 ---
 
 <!-- ─── SKILLS SNAPSHOT ────────────────────────────────────────────────── -->

@@ -204,30 +204,27 @@ Drift Detection  Z-Score · Counterfactual Analysis · Synthetic Stress Testing
 
 ---
 
-## 📊 GitHub Activity
+## GitHub Activity
 
 <div align="center">
 
 <table>
 <tr>
 <td align="center">
-<img width="380" src="https://github-readme-streak-stats.herokuapp.com?user=Khanz9664&theme=tokyonight&hide_border=true&border_radius=6&short_numbers=true&hide_total_contributions=true" />
+<img width="380" src="https://github-readme-streak-stats.herokuapp.com?user=Khanz9664&theme=radical" />
 </td>
 
 <td align="center">
-<img width="380" src="https://awesome-github-stats.azurewebsites.net/user-stats/Khanz9664?cardType=level&theme=tokyonight&preferLogin=false" />
+<img width="380" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Khanz9664&theme=github_dark"/>
 </td>
 </tr>
 
 <tr>
 <td colspan="2" align="center">
-<img width="780" src="https://github-readme-activity-graph.vercel.app/graph?username=Khanz9664&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7F4&line=00F7F4&point=FFFFFF" />
+<img width="780" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Khanz9664&theme=dracula"/>
 </td>
-</tr>
-
-<tr>
 <td colspan="2" align="center">
-<img width="780" src="https://github-profile-trophy.vercel.app/?username=Khanz9664&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5&row=1&column=6" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Khanz9664&theme=2077&utcOffset=8" alt="Commits per day badge"/>
 </td>
 </tr>
 

@@ -40,7 +40,7 @@ My research uncovered what I call the **Explainability Paradox**: visually convi
 ## TrustLens — Open-Source ML Reliability Framework
 
 <a href="https://github.com/Khanz9664/TrustLens">
-  <img align="right" width="380" src="https://opengraph.githubassets.com/1/Khanz9664/TrustLens" style="border-radius:8px" />
+  <img align="right" alt="coding gif" width="360" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
 </a>
 
 Most evaluation stops at `accuracy_score`. **TrustLens** goes deeper.

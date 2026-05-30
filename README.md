@@ -218,13 +218,17 @@ Drift Detection  Z-Score · Counterfactual Analysis · Synthetic Stress Testing
 <img width="400" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Khanz9664&theme=github_dark"/>
 </td>
 </tr>
-
+</table>
+<table>
 <tr>
 <td align="center">
-<img width="200" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Khanz9664&theme=dracula"/>
+<img width="250" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Khanz9664&theme=dracula"/>
 </td>
 <td align="center">
-<img width="200" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Khanz9664&theme=2077&utcOffset=8" alt="Commits per day badge"/>
+<img width="250" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Khanz9664&theme=2077&utcOffset=8" alt="Commits per day badge"/>
+</td>
+<td align="center">
+<img width="250" src="https://github-readme-activity-graph.vercel.app/graph?username=Khanz9664&theme=merko&hide_border=true"/>
 </td>
 </tr>
 

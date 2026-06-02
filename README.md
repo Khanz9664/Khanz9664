@@ -138,6 +138,20 @@ I write derivation-first articles — intuition before formulas, complete proofs
       <p>Walks through the motivation for squashing linear outputs through the sigmoid function, deriving its form from the odds-ratio and log-odds perspective. Constructs the Binary Cross-Entropy loss function from scratch using Maximum Likelihood Estimation over the Bernoulli distribution, then derives its gradient with respect to model weights — revealing the elegant result that the gradient takes the same form as linear regression's residual. Covers numerical stability considerations (log-sum-exp trick), the probabilistic interpretation of outputs, and why logistic regression is not just a classifier but a calibrated probabilistic model.</p>
 </br>
 
+<h3> <a href="https://khanz9664.github.io/portfolio/articles/neuralnets.html">Neural Networks</a></h3>
+<a href="https://khanz9664.github.io/portfolio/articles/neuralnets.html">
+        <img align="left" width="200" alt="Neural Networks" src="https://raw.githubusercontent.com/Khanz9664/Khanz9664/main/assets/6.png"/>
+</a>
+<em>Where calculus, linear algebra, and biology collide to build machines that learn.</em>
+<p>Constructs a neural network from absolute zero — starting with the biological neuron analogy, then 
+formalizing the mathematical model as a composition of affine transformations and nonlinear activations. 
+Derives the backpropagation algorithm in full using the chain rule across the computation graph, showing 
+exactly how gradients flow from the loss back through every weight in the network. Covers the vanishing 
+gradient problem, why activation function choice (ReLU vs. sigmoid vs. tanh) is not cosmetic, and how 
+depth creates hierarchical feature representations that shallow models fundamentally cannot. By the end, 
+you will have built and trained a network from scratch in NumPy — no framework magic, no black boxes.</p>
+</br>
+
 → <a href="https://khanz9664.github.io/portfolio/articles.html"><strong>All articles →</strong></a>
 
 ---

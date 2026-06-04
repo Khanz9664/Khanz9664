@@ -144,7 +144,7 @@ I write derivation-first articles — intuition before formulas, complete proofs
 <br clear="left"/>
 <br/>
 
-→ <h1 align="center"><a href="https://khanz9664.github.io/portfolio/articles.html"><strong>Explore All Articles →</strong></a></h1>
+<h1 align="center">→ <a href="https://khanz9664.github.io/portfolio/articles.html"><strong>Explore All Articles →</strong></a></h1>
 
 ---
 

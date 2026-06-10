@@ -76,15 +76,14 @@ I Trained 3 different Models (VGG16, ViT B/16 and Custom CNN) and ran GradCAM++ 
 → [Project writeup](https://khanz9664.github.io/portfolio/projects/TransferLearning.html) &nbsp;|&nbsp; [Repository](https://github.com/Khanz9664/Transfer-Learning-for-Respiratory-Disease-Classification)
 
 ---
-<!--
-### Open-Source Contribution: Roboflow `supervision`
 
-**PR [#2247](https://github.com/roboflow/supervision/pull/2247) — Add OBB support to `ConfusionMatrix` via `MetricTarget`** *(under review)*
+### Open-Source Contribution: Roboflow Supervision
 
-`ConfusionMatrix` was silently computing IoU on axis-aligned bounding boxes even when users passed oriented (rotated) detections. This PR fixes that by routing through `oriented_box_iou_batch` when `MetricTarget.ORIENTED_BOUNDING_BOXES` is selected — aligning `ConfusionMatrix` with every other metric in the library. 118 tests passing, full backward compatibility preserved.
+**Merged PR [#2247](https://github.com/roboflow/supervision/pull/2247) — Add OBB Support to `ConfusionMatrix` via `MetricTarget`**
+
+Implemented Oriented Bounding Box (OBB) support for `ConfusionMatrix`, enabling correct IoU computation for rotated detections through `MetricTarget.ORIENTED_BOUNDING_BOXES`. This aligned `ConfusionMatrix` with the library's existing metrics architecture and resolved a long-standing gap where OBB inputs were evaluated using axis-aligned IoU. The contribution included validation logic, regression tests, documentation updates, and full backward compatibility with existing workflows.
 
 ---
--->
 
 <!-- ─── DEPLOYED SYSTEMS ───────────────────────────────────────────────── -->
 

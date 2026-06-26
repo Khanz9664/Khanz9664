@@ -85,6 +85,27 @@ Implemented Oriented Bounding Box (OBB) support for `ConfusionMatrix`, enabling 
 
 ---
 
+## Mathematical Foundations of Machine Learning
+
+I write long-form, derivation-first articles that explain the mathematics behind machine learning from first principles. Every article emphasizes intuition, rigorous derivations, and practical connections rather than treating algorithms as black boxes.
+
+### ⭐ Featured Articles
+
+| Article                                                                                           | What you'll learn                                                                                                                  |
+| ------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
+| **[Probability Theory](https://khanz9664.github.io/portfolio/articles/probablitytheory.html)**    | Random variables, probability distributions, expectation, Bayes' theorem, and the statistical foundations of machine learning.     |
+| **[Matrix Calculus](https://khanz9664.github.io/portfolio/articles/matrixcalculus.html)**         | Gradients, Jacobians, Hessians, and the calculus required to understand optimization and neural networks.                          |
+| **[Gradient Descent](https://khanz9664.github.io/portfolio/articles/gradient-descent.html)**      | Why optimization works, how gradients are derived, convergence analysis, learning rates, and practical training dynamics.          |
+| **[Convex Optimization](https://khanz9664.github.io/portfolio/articles/convexoptimization.html)** | Convex sets, convex functions, duality, KKT conditions, and why convexity matters in machine learning.                             |
+| **[Backpropagation](https://khanz9664.github.io/portfolio/articles/backprop.html)**               | A complete derivation of backpropagation using the chain rule, computation graphs, and gradient flow through deep networks.        |
+| **[Transformers](https://khanz9664.github.io/portfolio/articles/transformers.html)**              | Self-attention, positional encoding, multi-head attention, encoder-decoder architecture, and the mathematics powering modern LLMs. |
+
+<p align="center">
+  <a href="https://khanz9664.github.io/portfolio/articles.html"><strong>Browse the Complete Article Collection →</strong></a>
+</p>
+
+---
+
 <!-- ─── DEPLOYED SYSTEMS ───────────────────────────────────────────────── -->
 
 ## Deployed Systems
@@ -96,54 +117,6 @@ Implemented Oriented Bounding Box (OBB) support for `ConfusionMatrix`, enabling 
 | **[Respiratory Disease Classifier](https://github.com/Khanz9664/Transfer-Learning-for-Respiratory-Disease-Classification)** | VGG16 · ViT-B/16 · GradCAM++ · LIME | Research | 99% recall for COVID-19 · Explainability Paradox discovery |
 | **[Apple Sales Intelligence](https://github.com/Khanz9664/Comprehensive-Data-Analysis-Visualization-of-Apple-Product-Sales)** | Scikit-Learn · SciPy SLSQP · Streamlit | [🟢 Live](https://applesalesanalytics.streamlit.app/) | Constrained optimization for hardware-mix revenue maximization |
 | **[Patient Safety Guardian](https://github.com/Khanz9664/The-Patient-Guardian-)** | Gemini 2.5 Pro · Google ADK · Streamlit | [🟢 Live](https://the-patient-guardian-git-jahk4i2rnm93uwceqnk7qu.streamlit.app/) | Kaggle Agents Intensive · Multi-agent clinical safety net · 100% critical interaction detection |
-
----
-
-<!-- ─── MATHEMATICAL FOUNDATIONS ───────────────────────────────────────── -->
- 
-## Mathematical Foundations of ML
- 
-I write derivation-first articles — intuition before formulas, complete proofs included. No hand-waving, no shortcuts.
-</br>
-<!-- ── Article 1 — Gradient Descent ── -->
-<h3><a href="https://khanz9664.github.io/portfolio/articles/gradient-descent.html">Gradient Descent</a></h3>
-<a href="https://khanz9664.github.io/portfolio/articles/gradient-descent.html">
-  <img align="left" width="200" alt="Gradient Descent" src="https://raw.githubusercontent.com/Khanz9664/Khanz9664/main/assets/1.png"/>
-</a>
-<blockquote><em>The workhorse of machine learning optimization.</em></blockquote>
-<p>A rigorous, ground-up treatment of how gradient descent navigates the loss landscape. Covers the derivation of partial derivatives and the chain rule in the context of multi-parameter loss functions, the geometry of steepest descent, and why learning rate choice is not arbitrary — too large diverges, too small stalls. Analyses convergence behavior, introduces momentum variants, and connects the mathematics to practical PyTorch training loops. Written for readers who want to truly understand <strong>why</strong> the optimizer works, not just how to call <code>.backward()</code>.</p>
-<a href="https://khanz9664.github.io/portfolio/articles/gradient-descent.html"><strong>Read Article →</strong></a>
-<br clear="left"/><hr/>
-<!-- ── Article 2 — Lagrange Multipliers ── -->
-<h3><a href="https://khanz9664.github.io/portfolio/articles/lagrange-multipliers.html">Lagrange Multipliers</a></h3>
-<a href="https://khanz9664.github.io/portfolio/articles/lagrange-multipliers.html">
-  <img align="left" width="200" alt="Lagrange Multipliers" src="https://raw.githubusercontent.com/Khanz9664/Khanz9664/main/assets/2.png"/>
-</a>
-<blockquote><em>Constrained optimization — the math behind SVMs, regularization, and resource allocation.</em></blockquote>
-<p>When you can't just follow the gradient because the solution must satisfy a constraint, Lagrange multipliers are the tool. This article builds the method from its geometric foundations — explaining why the gradient of the objective must be parallel to the gradient of the constraint at a solution — and derives the KKT conditions used throughout modern ML. Covers the primal and dual problem formulation, the role of the Lagrangian, saddle-point interpretation, and worked examples in both geometric and analytical form. Directly applicable to understanding <strong>Support Vector Machine margins</strong> and constrained portfolio optimization.</p>
-<a href="https://khanz9664.github.io/portfolio/articles/lagrange-multipliers.html"><strong>Read Article →</strong></a>
-<br clear="left"/><hr/>
-<!-- ── Article 5 — Logistic Regression ── -->
-<h3><a href="https://khanz9664.github.io/portfolio/articles/logistic-regression.html">Logistic Regression</a></h3>
-<a href="https://khanz9664.github.io/portfolio/articles/logistic-regression.html">
-  <img align="left" width="200" alt="Logistic Regression" src="https://raw.githubusercontent.com/Khanz9664/Khanz9664/main/assets/5.png"/>
-</a>
-<blockquote><em>From continuous predictions to calibrated class probabilities — the complete derivation.</em></blockquote>
-<p>Walks through the motivation for squashing linear outputs through the sigmoid function, deriving its form from the odds-ratio and log-odds perspective. Constructs the Binary Cross-Entropy loss function from scratch using Maximum Likelihood Estimation over the Bernoulli distribution, then derives its gradient with respect to model weights — revealing the elegant result that the gradient takes the same form as linear regression's residual. Covers numerical stability considerations (log-sum-exp trick), the probabilistic interpretation of outputs, and why logistic regression is not just a classifier but a <strong>calibrated probabilistic model</strong>.</p>
-<a href="https://khanz9664.github.io/portfolio/articles/logistic-regression.html"><strong>Read Article →</strong></a>
-<br clear="left"/><hr/>
-<!-- ── Article 6 — Neural Networks ── -->
-<h3><a href="https://khanz9664.github.io/portfolio/articles/neuralnets.html">Neural Networks</a></h3>
-<a href="https://khanz9664.github.io/portfolio/articles/neuralnets.html">
-  <img align="left" width="200" alt="Neural Networks" src="https://raw.githubusercontent.com/Khanz9664/Khanz9664/main/assets/6.png"/>
-</a>
-<blockquote><em>Where calculus, linear algebra, and biology collide to build machines that learn.</em></blockquote>
-<p>Constructs a neural network from absolute zero — starting with the biological neuron analogy, then formalizing the mathematical model as a composition of affine transformations and nonlinear activations. Derives the backpropagation algorithm in full using the chain rule across the computation graph, showing exactly how gradients flow from the loss back through every weight in the network. Covers the vanishing gradient problem, why activation function choice (ReLU vs. sigmoid vs. tanh) is not cosmetic, and how depth creates <strong>hierarchical feature representations</strong> that shallow models fundamentally cannot. By the end, you will have built and trained a network from scratch in NumPy — no framework magic, no black boxes.</p>
-<a href="https://khanz9664.github.io/portfolio/articles/neuralnets.html"><strong>Read Article →</strong></a>
-<br clear="left"/>
-<br/>
-
-<h1 align="center">→ <a href="https://khanz9664.github.io/portfolio/articles.html"><strong>Explore All Articles →</strong></a></h1>
 
 ---
 

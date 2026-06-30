@@ -101,7 +101,7 @@ I write long-form, derivation-first articles that explain the mathematics behind
 | **[Transformers](https://khanz9664.github.io/portfolio/articles/transformers.html)**              | Self-attention, positional encoding, multi-head attention, encoder-decoder architecture, and the mathematics powering modern LLMs. |
 
 <p align="center">
-  <a href="https://khanz9664.github.io/portfolio/articles.html"><strong>Browse the Complete Article Collection →</strong></a>
+  <a href="https://khanz9664.github.io/portfolio/articles.html"><strong>Show All Article's →</strong></a>
 </p>
 
 ---
